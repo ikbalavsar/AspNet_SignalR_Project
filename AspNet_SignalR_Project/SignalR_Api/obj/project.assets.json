@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ikbal\\source\\repos\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj",
+      "projectUniqueName": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj",
       "projectName": "SignalR_Api",
-      "projectPath": "C:\\Users\\ikbal\\source\\repos\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj",
+      "projectPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj",
       "packagesPath": "C:\\Users\\ikbal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ikbal\\source\\repos\\AspNet_SignalR_Project\\SignalR_Api\\obj\\",
+      "outputPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

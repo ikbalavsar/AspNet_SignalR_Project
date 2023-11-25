@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj": {}
+    "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\SignalR_EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj": {
+    "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\SignalR_EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj",
-        "projectName": "SignalR_Api",
-        "projectPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj",
+        "projectUniqueName": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\SignalR_EntityLayer.csproj",
+        "projectName": "SignalR_EntityLayer",
+        "projectPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\SignalR_EntityLayer.csproj",
         "packagesPath": "C:\\Users\\ikbal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\obj\\",
+        "outputPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,12 +43,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -61,9 +55,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

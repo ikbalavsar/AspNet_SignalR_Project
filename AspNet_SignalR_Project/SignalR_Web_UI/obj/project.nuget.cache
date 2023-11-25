@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "17KtIBwfdE0xFm314P1KmLdR9k8pkDDjq3blSP/145VW7eyb2LeszJ5LUZXppUQzEboOnVssCuom0Q7MbjQ3yw==",
+  "dgSpecHash": "+apsPkRyYmuqQ39CuzWrFlA8TrWNJLWLe2M2pu/OzNur/o/I2NIXwM9jnHQwooOdVst/M+Hr6Y/X/03uDsHkXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ikbal\\source\\repos\\AspNet_SignalR_Project\\SignalR_Web_UI\\SignalR_Web_UI.csproj",
+  "projectFilePath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\SignalR_Web_UI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

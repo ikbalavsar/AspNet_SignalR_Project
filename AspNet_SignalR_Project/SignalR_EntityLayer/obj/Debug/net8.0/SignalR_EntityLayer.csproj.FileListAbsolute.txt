@@ -1,0 +1,12 @@
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_EntityLayer\bin\Debug\net8.0\SignalR_EntityLayer.deps.json
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_EntityLayer\bin\Debug\net8.0\SignalR_EntityLayer.dll
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_EntityLayer\bin\Debug\net8.0\SignalR_EntityLayer.pdb
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_EntityLayer\obj\Debug\net8.0\SignalR_EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_EntityLayer\obj\Debug\net8.0\SignalR_EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_EntityLayer\obj\Debug\net8.0\SignalR_EntityLayer.AssemblyInfo.cs
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_EntityLayer\obj\Debug\net8.0\SignalR_EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_EntityLayer\obj\Debug\net8.0\SignalR_EntityLayer.sourcelink.json
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_EntityLayer\obj\Debug\net8.0\SignalR_EntityLayer.dll
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_EntityLayer\obj\Debug\net8.0\refint\SignalR_EntityLayer.dll
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_EntityLayer\obj\Debug\net8.0\SignalR_EntityLayer.pdb
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_EntityLayer\obj\Debug\net8.0\ref\SignalR_EntityLayer.dll
