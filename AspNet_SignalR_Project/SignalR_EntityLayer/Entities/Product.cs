@@ -1,4 +1,4 @@
-﻿namespace SignalR_EntityLayer.DAL.Entities
+﻿namespace SignalR_EntityLayer.Entities
 {
     public class Product
     {
