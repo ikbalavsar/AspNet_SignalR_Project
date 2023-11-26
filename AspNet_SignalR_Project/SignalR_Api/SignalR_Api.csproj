@@ -18,10 +18,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\SignalR_BusinessLayer\SignalR_BusinessLayer.csproj" />
     <ProjectReference Include="..\SignalR_DtoLayer\SignalR_DtoLayer.csproj" />
   </ItemGroup>
