@@ -185,3 +185,7 @@ C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\Si
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\obj\Debug\net8.0\SignalR_Api.pdb
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\obj\Debug\net8.0\SignalR_Api.genruntimeconfig.cache
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\obj\Debug\net8.0\ref\SignalR_Api.dll
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\SignalR_DtoLayer.dll
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\SignalR_DtoLayer.pdb
