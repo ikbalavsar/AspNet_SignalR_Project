@@ -38,7 +38,7 @@ namespace SignalR_Api.Controllers
             return Ok("Category Added.");
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public IActionResult DeleteCategory(int id)
         {
 

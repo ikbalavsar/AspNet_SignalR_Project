@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalR_Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5828d10326c016a7f29dc78dd35e123e542f7ad6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a990c5163dd02a3ad892d57697bc19171ba9fbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalR_Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalR_Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
