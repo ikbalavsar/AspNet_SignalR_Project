@@ -59,7 +59,7 @@ namespace SignalR_Api.Controllers
             return Ok("Category updated.");
         }
 
-        [HttpGet("GetCategory")]
+        [HttpGet("{id}")]
         public IActionResult GetCategory(int id)
         {
             var value = _categoryService.TGetByID(id);
