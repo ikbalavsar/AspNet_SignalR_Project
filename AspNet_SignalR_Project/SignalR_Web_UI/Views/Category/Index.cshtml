@@ -1,4 +1,5 @@
 ﻿@model List<SignalR_Web_UI.Dtos.CategoryDtos.ResultCategoryDto>
+
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/AdminLayout/Index.cshtml";
@@ -39,7 +40,7 @@
 									</tr>
 
 								}
-								<a href="#" class="btn btn-outline-primary">Yeni Kategori Girişi</a>
+								<a href="/Category/CreateCategory" class="btn btn-outline-primary">Yeni Kategori Girişi</a>
 							</tbody>
 						</table>
 					</div>
