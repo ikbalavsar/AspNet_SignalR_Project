@@ -48,7 +48,7 @@ namespace SignalR_Api.Controllers
             return Ok("Product Added.");
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public IActionResult DeleteProduct(int id)
         {
 
@@ -72,8 +72,9 @@ namespace SignalR_Api.Controllers
             return Ok("Product updated.");
         }
 
-        [HttpGet("GetProduct")]
-        public IActionResult GetProduct(int id)
+		//[HttpGet("GetProduct")]
+		[HttpGet("{id}")]
+		public IActionResult GetProduct(int id)
         {
             var value = _productService.TGetByID(id);
             return Ok(value);

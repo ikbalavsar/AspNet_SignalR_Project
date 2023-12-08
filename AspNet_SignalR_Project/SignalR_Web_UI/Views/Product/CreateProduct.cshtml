@@ -1,0 +1,61 @@
+﻿@model CreateProductDto
+@{
+    ViewData["Title"] = "CreateProduct";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="content">
+	<div class="container-fluid">
+		<h4 class="page-title">Ürün İşlemleri</h4>
+		<div class="row">
+			<div class="col-md-12">
+				<form method="post">
+					<div class="card">
+						<div class="card-header">
+							<div class="card-title">Yeni Ürün Ekle</div>
+						</div>
+						<div class="card-body">
+
+							<div class="form-group">
+								<label for="productName">Ürün Adı</label>
+								<input type="text" asp-for="ProductName" class="form-control" id="productName">
+							</div>
+
+
+							<div class="form-group">
+								<label for="productDescription">Ürün Açıklaması</label>
+								<input type="text" asp-for="Description" class="form-control" id="productDescription">
+							</div>
+
+
+							<div class="form-group">
+								<label for="productPrice">Fiyat</label>
+								<input type="text" asp-for="Price" class="form-control" id="productPrice">
+							</div>
+
+
+							<div class="form-group">
+								<label for="productImgUrl">Ürün Görseli</label>
+								<input type="text" asp-for="ImageUrl" class="form-control" id="productImgUrl">
+							</div>
+
+
+							
+							<div class="form-group">
+								<label for="productImgUrl">Ürün Kategorisini Seçiniz</label>
+								<input type="text" asp-for="ImageUrl" class="form-control" id="productImgUrl">
+							</div>
+
+
+						</div>
+						<div class="card-action">
+							<button class="btn btn-success">Ürün Ekle</button>
+						</div>
+					</div>
+				</form>
+			</div>
+
+		</div>
+	</div>
+</div>
+
