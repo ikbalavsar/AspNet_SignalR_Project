@@ -68,7 +68,8 @@ namespace SignalR_Api.Controllers
                 Price = updateProductDto.Price,
                 ProductName = updateProductDto.ProductName,
                 ProductStatus = true,
-                ProductID = updateProductDto.ProductID
+                ProductID = updateProductDto.ProductID,
+                CategoryID = updateProductDto.CategoryID
             });
             return Ok("Product updated.");
         }
