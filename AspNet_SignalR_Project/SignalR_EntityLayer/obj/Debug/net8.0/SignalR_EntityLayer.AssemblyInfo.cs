@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalR_EntityLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8036cf508d819a80c611e043ec167e8430ab826")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+570470474631a8ef9fa23101fa9b22a16a9de79f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalR_EntityLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalR_EntityLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -43,6 +43,7 @@ namespace SignalR_Api.Controllers
                 ImageUrl = createProductDto.ImageUrl,
                 Price = createProductDto.Price,
                 ProductName = createProductDto.ProductName,
+                CategoryID = createProductDto.CategoryID,
                 ProductStatus = true
             });
             return Ok("Product Added.");

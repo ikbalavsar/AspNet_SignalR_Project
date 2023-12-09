@@ -43,7 +43,7 @@
 							
 							<div class="form-group">
 								<label for="productImgUrl">Ürün Kategorisini Seçiniz</label>
-								<input type="text" asp-for="ImageUrl" class="form-control" id="productImgUrl">
+								@Html.DropDownListFor(x=> x.CategoryID, (List<SelectListItem>)ViewBag.dropdown, new{@class="form-control"})
 							</div>
 
 

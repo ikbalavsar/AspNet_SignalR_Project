@@ -201,7 +201,7 @@ namespace SignalR_DataAccessLayer.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProductID"));
 
-                    b.Property<int>("CategoryId")
+                    b.Property<int>("CategoryID")
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
@@ -224,7 +224,7 @@ namespace SignalR_DataAccessLayer.Migrations
 
                     b.HasKey("ProductID");
 
-                    b.HasIndex("CategoryId");
+                    b.HasIndex("CategoryID");
 
                     b.ToTable("Products");
                 });
@@ -290,7 +290,7 @@ namespace SignalR_DataAccessLayer.Migrations
                 {
                     b.HasOne("SignalR_EntityLayer.Entities.Category", "Category")
                         .WithMany("Products")
-                        .HasForeignKey("CategoryId")
+                        .HasForeignKey("CategoryID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
