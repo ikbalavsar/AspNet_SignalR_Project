@@ -41,7 +41,7 @@ namespace SignalR_Api.Controllers
         
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public IActionResult DeleteAbout(int id)
         {
             var value = _aboutService.TGetByID(id);
@@ -64,7 +64,7 @@ namespace SignalR_Api.Controllers
             return Ok("About is updated.");
         }
 
-        [HttpGet("GetAbout")]
+        [HttpGet("{id}")]
         public IActionResult GetAbout(int id)
         {
            var value= _aboutService.TGetByID(id);

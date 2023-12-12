@@ -37,6 +37,8 @@ C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\Si
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\SignalR_Api.runtimeconfig.json
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\SignalR_Api.dll
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\SignalR_Api.pdb
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\Humanizer.dll
@@ -159,8 +161,10 @@ C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\Si
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\SignalR_BusinessLayer.dll
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\SignalR_DataAccessLayer.dll
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\SignalR_DtoLayer.dll
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\SignalR_EntityLayer.dll
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\SignalR_BusinessLayer.pdb
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\SignalR_DtoLayer.pdb
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\SignalR_DataAccessLayer.pdb
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\SignalR_EntityLayer.pdb
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\obj\Debug\net8.0\SignalR_Api.csproj.AssemblyReference.cache
@@ -185,7 +189,3 @@ C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\Si
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\obj\Debug\net8.0\SignalR_Api.pdb
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\obj\Debug\net8.0\SignalR_Api.genruntimeconfig.cache
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\obj\Debug\net8.0\ref\SignalR_Api.dll
-C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\SignalR_DtoLayer.dll
-C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Api\bin\Debug\net8.0\SignalR_DtoLayer.pdb

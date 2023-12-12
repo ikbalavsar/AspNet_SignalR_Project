@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalR_BusinessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+570470474631a8ef9fa23101fa9b22a16a9de79f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af74ad786d344b3b785d1f8686df64060e0e272d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalR_BusinessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalR_BusinessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
