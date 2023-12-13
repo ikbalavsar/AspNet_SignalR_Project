@@ -13,6 +13,11 @@
 
   <ItemGroup>
     <Folder Include="Dtos\AboutDtos\" />
+    <Folder Include="Dtos\ContactDtos\" />
+    <Folder Include="Dtos\DiscountDtos\" />
+    <Folder Include="Dtos\FeatureDtos\" />
+    <Folder Include="Dtos\TestimonialDtos\" />
+    <Folder Include="Dtos\SocialMediaDtos\" />
   </ItemGroup>
 
 </Project>

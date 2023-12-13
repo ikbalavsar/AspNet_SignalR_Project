@@ -39,7 +39,7 @@ namespace SignalR_Api.Controllers
             return Ok("SocialMedia Added.");
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public IActionResult DeleteSocialMedia(int id)
         {
 
@@ -61,7 +61,7 @@ namespace SignalR_Api.Controllers
             return Ok("SocialMedia updated.");
         }
 
-        [HttpGet("GetSocialMedia")]
+        [HttpGet("{id}")]
         public IActionResult GetSocialMedia(int id)
         {
             var value = _socialMediaService.TGetByID(id);
