@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SignalR_DtoLayer.TestimonialDto
+namespace SignalR_Web_UI.Dtos.TestimonialDtos
 {
     public class ResultTestimonialDto
     {

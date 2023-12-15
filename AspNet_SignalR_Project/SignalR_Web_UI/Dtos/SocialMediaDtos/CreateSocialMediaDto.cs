@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SignalR_DtoLayer.SocialMediaDto
+namespace SignalR_Web_UI.Dtos.SocialMediaDtos
 {
     public class CreateSocialMediaDto
     {
