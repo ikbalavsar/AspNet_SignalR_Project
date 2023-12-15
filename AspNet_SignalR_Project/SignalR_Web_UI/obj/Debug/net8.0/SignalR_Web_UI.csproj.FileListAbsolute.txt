@@ -240,3 +240,4 @@ C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\Si
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\obj\Debug\net8.0\SignalR_Web_UI.pdb
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\obj\Debug\net8.0\SignalR_Web_UI.genruntimeconfig.cache
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\obj\Debug\net8.0\ref\SignalR_Web_UI.dll
+C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\bin\Debug\net8.0\libman.json

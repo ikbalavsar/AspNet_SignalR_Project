@@ -777,6 +777,14 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
       "Id": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js",
       "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.js"
     },
