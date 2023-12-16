@@ -1,0 +1,4 @@
+-- CategoryCount
+-- ProductCount
+-- Aktif Categori sayýsý
+-- Pasif kategori sayýsý

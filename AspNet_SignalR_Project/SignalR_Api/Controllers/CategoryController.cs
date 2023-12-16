@@ -27,6 +27,27 @@ namespace SignalR_Api.Controllers
             return Ok(value); 
         }
 
+        [HttpGet("CategoryCount")]
+
+        public IActionResult CategoryCount()
+        {
+            return Ok(_categoryService.TCategoryCount());
+        }
+
+        [HttpGet("ActiveCategoryCount")]
+
+        public IActionResult ActiveCategoryCount()
+        {
+            return Ok(_categoryService.TActiveCategoryCount());
+        }
+
+        [HttpGet("PassiveCategoryCount")]
+
+        public IActionResult PassiveCategoryCount()
+        {
+            return Ok(_categoryService.TPassiveCategoryCount());
+        }
+
         [HttpPost]
         public IActionResult CreateCategory(CreateCategoryDto createCategoryDto)
         {
