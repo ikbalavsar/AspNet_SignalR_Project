@@ -1,11 +1,12 @@
 ﻿@{
     ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+
 }
 
 <h1>Index</h1>
 
-@section Scripts
-{
+
     @* <script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script> *@
     <script src="~/lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
@@ -23,12 +24,19 @@
                                 var connection = new signalR.HubConnectionBuilder().withUrl("https://localhost:7067/SignalRHub").build();
                                 $("#connstatus").text(connection.state);
 
+
                                 connection.start().then(() => {
                                     $("#connstatus").text(connection.state);
+                                connection.invoke("SendCategoryCount");
 
                                 }).catch((err) => {
                                     console.log(err);
                                 });
+
+
+                                connection.on("ReceiveCategoryCount", (value) => {
+                                    $("#categoryCount").text(value);
+                                })
                             })
 
                         </script>
@@ -37,10 +45,11 @@
             </div>
         </div>
     </div>
-}
+
 
 <div class="row">
     <div class="col-md-8 offset-2">
         <div class="alert alert-success">Bağlantının durumu : <strong id="connstatus"></strong></div>
+        <div class="alert alert-info">Kategori Sayısı : <strong id="categoryCount"></strong></div>
     </div>
 </div>

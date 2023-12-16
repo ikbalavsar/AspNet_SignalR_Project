@@ -8,5 +8,10 @@ namespace SignalR_Web_UI.Controllers
 		{
 			return View();
 		}
-	}
+
+        public IActionResult Index2()
+        {
+            return View();
+        }
+    }
 }
