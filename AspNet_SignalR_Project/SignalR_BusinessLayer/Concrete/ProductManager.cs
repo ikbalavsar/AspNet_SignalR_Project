@@ -1,5 +1,6 @@
 ﻿using SignalR_BusinessLayer.Abstract;
 using SignalR_DataAccessLayer.Abstract;
+using SignalR_DataAccessLayer.Concrete;
 using SignalR_EntityLayer.Entities;
 using System;
 using System.Collections.Generic;
@@ -17,6 +18,7 @@ namespace SignalR_BusinessLayer.Concrete
         {
             _productDal = productDal;
         }
+
 
         public void TAdd(Product entity)
         {
@@ -46,6 +48,21 @@ namespace SignalR_BusinessLayer.Concrete
         public int TProductCount()
         {
             return _productDal.ProductCount();
+        }
+
+        public int TProductCountByCategoryNameByDrink()
+        {
+            return _productDal.ProductCountByCategoryNameByDrink();
+        }
+
+        public int TProductCountByCategoryNameByHamburger()
+        {
+            return _productDal.ProductCountByCategoryNameByHamburger();
+        }
+
+        public decimal TProductPriceAvg()
+        {
+            return _productDal.ProductPriceAvg();
         }
 
         public void TUpdate(Product entity)

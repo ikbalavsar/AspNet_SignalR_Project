@@ -40,6 +40,29 @@ namespace SignalR_Api.Controllers
             return Ok(_productService.TProductCount());
         }
 
+
+        [HttpGet("ProductCountByHamburger")]
+        public IActionResult ProductCountByHamburger()
+        {
+            return Ok(_productService.TProductCountByCategoryNameByHamburger());
+        }
+
+
+
+        [HttpGet("ProductCountByDrink")]
+        public IActionResult ProductCountByDrink()
+        {
+            return Ok(_productService.TProductCountByCategoryNameByDrink());
+        }
+
+        [HttpGet("AverageProductPrice")]
+        public IActionResult AverageProductPrice()
+        {
+            return Ok(_productService.TProductPriceAvg());
+        }
+
+
+
         [HttpPost]
         public IActionResult CreateProduct(CreateProductDto createProductDto)
         {
