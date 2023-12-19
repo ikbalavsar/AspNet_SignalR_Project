@@ -4,8 +4,8 @@
 -- Pasif kategori sayýsý
 -- Kategori adýna göre ürün sayýsý1
 -- Kategori adýna göre ürün sayýsý2
-
 -- Ortalama Fiyat
+
 -- En yüksek Ürünlü Fiyat 
 -- En düþük Ürünlü Fiyat
 -- Ortalama HAmburger Fiyatý
