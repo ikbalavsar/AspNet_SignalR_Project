@@ -8,10 +8,11 @@
 -- En yüksek Ürünlü Fiyat 
 -- En düþük Ürünlü Fiyat
 -- Ortalama HAmburger Fiyatý
-
 -- Toplam Sipariþ Sayýsý
 -- Aktif Sipariþ Sayýsý
 -- Son sipariþ tutarý
 -- Kasadaki Tutar
+
 -- Bugünkü kazanç 
+
 -- Masa Sayýsý
