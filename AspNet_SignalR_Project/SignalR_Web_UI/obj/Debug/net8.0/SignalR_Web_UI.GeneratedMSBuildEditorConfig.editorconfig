@@ -17,183 +17,183 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SignalR_Web_UI
 build_property.RootNamespace = SignalR_Web_UI
-build_property.ProjectDir = C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\
+build_property.ProjectDir = C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI
+build_property.MSBuildProjectDirectory = C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/About/CreateAbout.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/About/CreateAbout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQ3JlYXRlQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/About/Index.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/About/UpdateAbout.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/About/UpdateAbout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcVXBkYXRlQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/AdminLayout/Index.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/AdminLayout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Booking/CreateBooking.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Booking/CreateBooking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xDcmVhdGVCb29raW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Booking/Index.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Booking/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Booking/UpdateBooking.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Booking/UpdateBooking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xVcGRhdGVCb29raW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Category/CreateCategory.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Category/CreateCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Category/Index.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Category/UpdateCategory.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Category/UpdateCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVXBkYXRlQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Contact/CreateContact.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Contact/CreateContact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDcmVhdGVDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Contact/Index.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Contact/UpdateContact.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Contact/UpdateContact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxVcGRhdGVDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Discount/CreateDiscount.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Discount/CreateDiscount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRcQ3JlYXRlRGlzY291bnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Discount/Index.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Discount/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Discount/UpdateDiscount.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Discount/UpdateDiscount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRcVXBkYXRlRGlzY291bnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Feature/CreateFeature.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Feature/CreateFeature.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxDcmVhdGVGZWF0dXJlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Feature/Index.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Feature/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Feature/UpdateFeature.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Feature/UpdateFeature.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxVcGRhdGVGZWF0dXJlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Home/Index.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Home/Privacy.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Product/CreateProduct.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Product/CreateProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGVQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Product/Index.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Product/UpdateProduct.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Product/UpdateProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVcGRhdGVQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/Components/_LayoutFooterPartialComponent/Default.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/Components/_LayoutFooterPartialComponent/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dEZvb3RlclBhcnRpYWxDb21wb25lbnRcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/Components/_LayoutHeaderPartialComponent/Default.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/Components/_LayoutHeaderPartialComponent/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dEhlYWRlclBhcnRpYWxDb21wb25lbnRcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/Components/_LayoutNavbarPartialComponent/Default.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/Components/_LayoutNavbarPartialComponent/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dE5hdmJhclBhcnRpYWxDb21wb25lbnRcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/Components/_LayoutScriptPartialComponent/Default.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/Components/_LayoutScriptPartialComponent/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNjcmlwdFBhcnRpYWxDb21wb25lbnRcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/Components/_LayoutSidebarPartialComponent/Default.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/Components/_LayoutSidebarPartialComponent/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNpZGViYXJQYXJ0aWFsQ29tcG9uZW50XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/Error.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/SignalRDefault/Index.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/SignalRDefault/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnbmFsUkRlZmF1bHRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/SignalRDefault/Index2.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/SignalRDefault/Index2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnbmFsUkRlZmF1bHRcSW5kZXgyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/SocialMedia/CreateSocialMedia.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/SocialMedia/CreateSocialMedia.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcQ3JlYXRlU29jaWFsTWVkaWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/SocialMedia/Index.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/SocialMedia/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/SocialMedia/UpdateSocialMedia.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/SocialMedia/UpdateSocialMedia.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcVXBkYXRlU29jaWFsTWVkaWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Statictic/Index.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Statictic/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGljdGljXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Testimonial/CreateTestimonial.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Testimonial/CreateTestimonial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcQ3JlYXRlVGVzdGltb25pYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Testimonial/Index.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Testimonial/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Testimonial/UpdateTestimonial.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Testimonial/UpdateTestimonial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcVXBkYXRlVGVzdGltb25pYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/_ViewImports.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/_ViewStart.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ikbal/Documents/GitHub/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/_Layout.cshtml]
+[C:/Users/glsmi/Desktop/Github/AspNet_SignalR_Project/AspNet_SignalR_Project/SignalR_Web_UI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-rcz8s0nen7

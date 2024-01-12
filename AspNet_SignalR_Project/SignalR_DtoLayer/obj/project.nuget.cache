@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7KB+liQTLmkm7wLYskXZgQFT3EtDs/mZbFo1dSsByF/wGMKtowhHgPPMDM25PUljDcUDUVWVmG9iWi6Ec4QmSg==",
+  "dgSpecHash": "cJw+8RY2Yu8aN4ij3lBDYozuhgmqmzvBEG1EvqgYIaPk+M2tggvwqWaIPobhdn4+CXilO54rAwa8oIsyfXe+kA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DtoLayer\\SignalR_DtoLayer.csproj",
+  "projectFilePath": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DtoLayer\\SignalR_DtoLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

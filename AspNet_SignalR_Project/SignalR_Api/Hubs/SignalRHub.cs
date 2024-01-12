@@ -14,15 +14,19 @@ namespace SignalR_Api.Hubs
 		private readonly IOrderDetailService _orderDetailService;
 		private readonly IOrderService _orderService;
 		private readonly IRestaurantTableService _restaurantTableService;
+        private readonly IMoneyCaseService _moneyCaseService;
 
-        public SignalRHub(ICategoryService categoryService, IProductService productService, IOrderDetailService orderDetailService, 
-			IOrderService orderService, IRestaurantTableService restaurantTableService)
+
+        public SignalRHub(ICategoryService categoryService, IProductService productService, IOrderDetailService orderDetailService,
+            IOrderService orderService, IRestaurantTableService restaurantTableService, IMoneyCaseService moneyCaseService)
         {
             _categoryService = categoryService;
             _productService = productService;
             _orderDetailService = orderDetailService;
             _orderService = orderService;
             _restaurantTableService = restaurantTableService;
+            _moneyCaseService = moneyCaseService;
+         
         }
 
         public async Task SendStatistic()
@@ -67,7 +71,13 @@ namespace SignalR_Api.Hubs
 
 
             var value13 = _orderService.TLastOrderPrice();
-            await Clients.All.SendAsync("ReceiveLastOrderPrice", value13);
+            await Clients.All.SendAsync("ReceiveLastOrderPrice", value13.ToString("0.00") + "₺");
+
+            var value14 = _moneyCaseService.TTotalMoneyCaseAmount();
+            await Clients.All.SendAsync("ReceiveTotalMoneyCaseAmount", value14.ToString("0.00") + "₺");
+
+            var value16 = _restaurantTableService.TTableCount();
+            await Clients.All.SendAsync("ReceiveTableCount", value16);
         }
 
 		

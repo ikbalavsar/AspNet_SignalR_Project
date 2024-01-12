@@ -10,3 +10,15 @@ C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\Si
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_DtoLayer\obj\Debug\net8.0\refint\SignalR_DtoLayer.dll
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_DtoLayer\obj\Debug\net8.0\SignalR_DtoLayer.pdb
 C:\Users\ikbal\Documents\GitHub\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_DtoLayer\obj\Debug\net8.0\ref\SignalR_DtoLayer.dll
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_DtoLayer\bin\Debug\net8.0\SignalR_DtoLayer.deps.json
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_DtoLayer\bin\Debug\net8.0\SignalR_DtoLayer.dll
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_DtoLayer\bin\Debug\net8.0\SignalR_DtoLayer.pdb
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_DtoLayer\obj\Debug\net8.0\SignalR_DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_DtoLayer\obj\Debug\net8.0\SignalR_DtoLayer.AssemblyInfoInputs.cache
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_DtoLayer\obj\Debug\net8.0\SignalR_DtoLayer.AssemblyInfo.cs
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_DtoLayer\obj\Debug\net8.0\SignalR_DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_DtoLayer\obj\Debug\net8.0\SignalR_DtoLayer.sourcelink.json
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_DtoLayer\obj\Debug\net8.0\SignalR_DtoLayer.dll
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_DtoLayer\obj\Debug\net8.0\refint\SignalR_DtoLayer.dll
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_DtoLayer\obj\Debug\net8.0\SignalR_DtoLayer.pdb
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_DtoLayer\obj\Debug\net8.0\ref\SignalR_DtoLayer.dll

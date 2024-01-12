@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj": {}
+    "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj": {
+    "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj",
+        "projectUniqueName": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj",
         "projectName": "SignalR_Api",
-        "projectPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj",
-        "packagesPath": "C:\\Users\\ikbal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\obj\\",
+        "projectPath": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\SignalR_Api.csproj",
+        "packagesPath": "C:\\Users\\glsmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ikbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\glsmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_BusinessLayer\\SignalR_BusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_BusinessLayer\\SignalR_BusinessLayer.csproj"
+              "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_BusinessLayer\\SignalR_BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_BusinessLayer\\SignalR_BusinessLayer.csproj"
               },
-              "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DtoLayer\\SignalR_DtoLayer.csproj": {
-                "projectPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DtoLayer\\SignalR_DtoLayer.csproj"
+              "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DtoLayer\\SignalR_DtoLayer.csproj": {
+                "projectPath": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DtoLayer\\SignalR_DtoLayer.csproj"
               }
             }
           }
@@ -89,25 +85,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_BusinessLayer\\SignalR_BusinessLayer.csproj": {
+    "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_BusinessLayer\\SignalR_BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_BusinessLayer\\SignalR_BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_BusinessLayer\\SignalR_BusinessLayer.csproj",
         "projectName": "SignalR_BusinessLayer",
-        "projectPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_BusinessLayer\\SignalR_BusinessLayer.csproj",
-        "packagesPath": "C:\\Users\\ikbal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_BusinessLayer\\obj\\",
+        "projectPath": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_BusinessLayer\\SignalR_BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\glsmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ikbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\glsmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -121,8 +113,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DataAccessLayer\\SignalR_DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DataAccessLayer\\SignalR_DataAccessLayer.csproj"
+              "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DataAccessLayer\\SignalR_DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DataAccessLayer\\SignalR_DataAccessLayer.csproj"
               }
             }
           }
@@ -152,25 +144,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DataAccessLayer\\SignalR_DataAccessLayer.csproj": {
+    "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DataAccessLayer\\SignalR_DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DataAccessLayer\\SignalR_DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DataAccessLayer\\SignalR_DataAccessLayer.csproj",
         "projectName": "SignalR_DataAccessLayer",
-        "projectPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DataAccessLayer\\SignalR_DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\ikbal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DataAccessLayer\\SignalR_DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\glsmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ikbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\glsmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -184,8 +172,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\SignalR_EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\SignalR_EntityLayer.csproj"
+              "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\SignalR_EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\SignalR_EntityLayer.csproj"
               }
             }
           }
@@ -237,25 +225,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DtoLayer\\SignalR_DtoLayer.csproj": {
+    "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DtoLayer\\SignalR_DtoLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DtoLayer\\SignalR_DtoLayer.csproj",
+        "projectUniqueName": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DtoLayer\\SignalR_DtoLayer.csproj",
         "projectName": "SignalR_DtoLayer",
-        "projectPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DtoLayer\\SignalR_DtoLayer.csproj",
-        "packagesPath": "C:\\Users\\ikbal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DtoLayer\\obj\\",
+        "projectPath": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DtoLayer\\SignalR_DtoLayer.csproj",
+        "packagesPath": "C:\\Users\\glsmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_DtoLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ikbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\glsmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -296,25 +280,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\SignalR_EntityLayer.csproj": {
+    "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\SignalR_EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\SignalR_EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\SignalR_EntityLayer.csproj",
         "projectName": "SignalR_EntityLayer",
-        "projectPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\SignalR_EntityLayer.csproj",
-        "packagesPath": "C:\\Users\\ikbal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ikbal\\Documents\\GitHub\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\obj\\",
+        "projectPath": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\SignalR_EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\glsmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ikbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\glsmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -355,7 +335,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -81,6 +81,16 @@
                 connection.on("ReceiveLastOrderPrice", (value13) => {
                     $("#lastOrder").text(value13);
                 });
+
+                connection.on("ReceiveTotalMoneyCaseAmount", (value14) => {
+                    $("#totalMoneyCaseAmount").text(value14);
+                });
+
+                
+
+                connection.on("ReceiveTableCount", (value16) => {
+                    $("#totalTableCount").text(value16);
+                });
             })
 
         </script>
@@ -368,8 +378,8 @@
                             </div>
                             <div class="col-7 d-flex align-items-center">
                                 <div class="numbers">
-                                    <p class="card-category">Sales</p>
-                                    <h4 class="card-title">$ 1,345</h4>
+                                    <p class="card-category">Kasadaki Tutar</p>
+                                    <h4 class="card-title" id="totalMoneyCaseAmount"></h4>
                                 </div>
                             </div>
                         </div>
@@ -387,8 +397,8 @@
                             </div>
                             <div class="col-7 d-flex align-items-center">
                                 <div class="numbers">
-                                    <p class="card-category">Subscribers</p>
-                                    <h4 class="card-title">1303</h4>
+                                    <p class="card-category">Bugünkü Kazanç</p>
+                                    <h4 class="card-title">2800₺</h4>
                                 </div>
                             </div>
                         </div>
@@ -406,8 +416,8 @@
                             </div>
                             <div class="col-7 d-flex align-items-center">
                                 <div class="numbers">
-                                    <p class="card-category">Order</p>
-                                    <h4 class="card-title">576</h4>
+                                    <p class="card-category">Toplam Masa Sayısı</p>
+                                    <h4 class="card-title" id="totalTableCount"></h4>
                                 </div>
                             </div>
                         </div>
