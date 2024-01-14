@@ -80,6 +80,12 @@ namespace SignalR_Api.Hubs
             await Clients.All.SendAsync("ReceiveTableCount", value16);
         }
 
+
+        public async Task SendProgress()
+        {
+            var value = _moneyCaseService.TTotalMoneyCaseAmount();
+            await Clients.All.SendAsync("ReceiveTotalMoneyCaseAmount", value.ToString("0.00") + "₺");
+        }
 		
     }
 }
