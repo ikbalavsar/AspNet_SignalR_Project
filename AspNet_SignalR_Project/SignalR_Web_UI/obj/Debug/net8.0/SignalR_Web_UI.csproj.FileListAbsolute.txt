@@ -472,3 +472,10 @@ C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\Sign
 C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\obj\Debug\net8.0\SignalR_Web_UI.pdb
 C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\obj\Debug\net8.0\SignalR_Web_UI.genruntimeconfig.cache
 C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\obj\Debug\net8.0\ref\SignalR_Web_UI.dll
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\glsmi\Desktop\Github\AspNet_SignalR_Project\AspNet_SignalR_Project\SignalR_Web_UI\bin\Debug\net8.0\Microsoft.JSInterop.dll
