@@ -15,9 +15,11 @@
 		
 		<div class="main-panel">
 			@RenderBody()
-			@await Component.InvokeAsync("_LayoutFooterPartialComponent")
+
 
 		</div>
+		@await Component.InvokeAsync("_LayoutFooterPartialComponent")
+
 	</div>
 	
 
