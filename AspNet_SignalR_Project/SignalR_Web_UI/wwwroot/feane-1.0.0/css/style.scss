@@ -256,7 +256,7 @@ a:focus {
   }
 
   .order_online {
-    @include hero_btn($primary1, $white, 8px, 30px, 45px);
+    @include hero_btn($primary1, $white, 8px, 12px, 45px);
   }
 }
 
