@@ -461,6 +461,10 @@
       "PackagePath": "staticwebassets\\feane-1.0.0\\images\\about-img.png"
     },
     {
+      "Id": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\feane-1.0.0\\images\\beyaz-peynirli-akdeniz-salatasi.webp",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\beyaz-peynirli-akdeniz-salatasi.webp"
+    },
+    {
       "Id": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\feane-1.0.0\\images\\client1.jpg",
       "PackagePath": "staticwebassets\\feane-1.0.0\\images\\client1.jpg"
     },
@@ -513,12 +517,36 @@
       "PackagePath": "staticwebassets\\feane-1.0.0\\images\\hero-bg.jpg"
     },
     {
+      "Id": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\feane-1.0.0\\images\\izgara-tavuk-onecikan.jpg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\izgara-tavuk-onecikan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\feane-1.0.0\\images\\izmirköfte.webp",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\izmirköfte.webp"
+    },
+    {
+      "Id": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\feane-1.0.0\\images\\mantarli-kremali-makarna.jpg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\mantarli-kremali-makarna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\feane-1.0.0\\images\\noodle.jpg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\noodle.jpg"
+    },
+    {
       "Id": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\feane-1.0.0\\images\\o1.jpg",
       "PackagePath": "staticwebassets\\feane-1.0.0\\images\\o1.jpg"
     },
     {
       "Id": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\feane-1.0.0\\images\\o2.jpg",
       "PackagePath": "staticwebassets\\feane-1.0.0\\images\\o2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\feane-1.0.0\\images\\su.webp",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\su.webp"
+    },
+    {
+      "Id": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\feane-1.0.0\\images\\texasburger.webp",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\texasburger.webp"
     },
     {
       "Id": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\feane-1.0.0\\index.html",
