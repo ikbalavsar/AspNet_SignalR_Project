@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "svrqucrvramh9M78bzbVPcgCB5PyBQahLXWXhriZmjA=",
+  "Hash": "BlhuqrLSiT2L0ntmL+jJXgZoehfItScwPt30Jbz1TLg=",
   "Source": "SignalR_Web_UI",
   "BasePath": "_content/SignalR_Web_UI",
   "Mode": "Default",
@@ -1098,6 +1098,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\feane-1.0.0\\images\\izmirköfte.webp"
+    },
+    {
+      "Identity": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\feane-1.0.0\\images\\kola.jpeg",
+      "SourceId": "SignalR_Web_UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\",
+      "BasePath": "_content/SignalR_Web_UI",
+      "RelativePath": "feane-1.0.0/images/kola.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\feane-1.0.0\\images\\kola.jpeg"
     },
     {
       "Identity": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\feane-1.0.0\\images\\mantarli-kremali-makarna.jpg",

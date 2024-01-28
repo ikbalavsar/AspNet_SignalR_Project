@@ -11,9 +11,9 @@ namespace SignalR_EntityLayer.Entities
         public int BasketID { get; set; }
 
         public int ProductID { get; set; } 
-        public string ProductPrice { get; set; }
-        public string ProductCount { get; set; }
-        public string TotalPrice { get; set; }
+        public decimal ProductPrice { get; set; }
+        public int ProductCount { get; set; }
+        public decimal TotalPrice { get; set; }
         public Product Product { get; set; }
         public int RestaurantTableID { get; set; }
         public RestaurantTable RestaurantTable { get; set; }

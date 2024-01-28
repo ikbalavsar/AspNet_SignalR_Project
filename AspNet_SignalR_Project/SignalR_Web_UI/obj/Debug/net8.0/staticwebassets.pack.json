@@ -525,6 +525,10 @@
       "PackagePath": "staticwebassets\\feane-1.0.0\\images\\izmirköfte.webp"
     },
     {
+      "Id": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\feane-1.0.0\\images\\kola.jpeg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\kola.jpeg"
+    },
+    {
       "Id": "C:\\Users\\glsmi\\Desktop\\Github\\AspNet_SignalR_Project\\AspNet_SignalR_Project\\SignalR_Web_UI\\wwwroot\\feane-1.0.0\\images\\mantarli-kremali-makarna.jpg",
       "PackagePath": "staticwebassets\\feane-1.0.0\\images\\mantarli-kremali-makarna.jpg"
     },
