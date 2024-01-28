@@ -47,6 +47,41 @@ namespace SignalR_DataAccessLayer.Migrations
                     b.ToTable("Abouts");
                 });
 
+            modelBuilder.Entity("SignalR_EntityLayer.Entities.Basket", b =>
+                {
+                    b.Property<int>("BasketID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("BasketID"));
+
+                    b.Property<string>("ProductCount")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ProductID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ProductPrice")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("RestaurantTableID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("TotalPrice")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("BasketID");
+
+                    b.HasIndex("ProductID");
+
+                    b.HasIndex("RestaurantTableID");
+
+                    b.ToTable("Baskets");
+                });
+
             modelBuilder.Entity("SignalR_EntityLayer.Entities.Booking", b =>
                 {
                     b.Property<int>("BookingID")
@@ -434,6 +469,25 @@ namespace SignalR_DataAccessLayer.Migrations
                     b.ToTable("Testimonials");
                 });
 
+            modelBuilder.Entity("SignalR_EntityLayer.Entities.Basket", b =>
+                {
+                    b.HasOne("SignalR_EntityLayer.Entities.Product", "Product")
+                        .WithMany("Baskets")
+                        .HasForeignKey("ProductID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("SignalR_EntityLayer.Entities.RestaurantTable", "RestaurantTable")
+                        .WithMany("Baskets")
+                        .HasForeignKey("RestaurantTableID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Product");
+
+                    b.Navigation("RestaurantTable");
+                });
+
             modelBuilder.Entity("SignalR_EntityLayer.Entities.OrderDetail", b =>
                 {
                     b.HasOne("SignalR_EntityLayer.Entities.Order", "Order")
@@ -476,7 +530,14 @@ namespace SignalR_DataAccessLayer.Migrations
 
             modelBuilder.Entity("SignalR_EntityLayer.Entities.Product", b =>
                 {
+                    b.Navigation("Baskets");
+
                     b.Navigation("OrderDetails");
+                });
+
+            modelBuilder.Entity("SignalR_EntityLayer.Entities.RestaurantTable", b =>
+                {
+                    b.Navigation("Baskets");
                 });
 #pragma warning restore 612, 618
         }
