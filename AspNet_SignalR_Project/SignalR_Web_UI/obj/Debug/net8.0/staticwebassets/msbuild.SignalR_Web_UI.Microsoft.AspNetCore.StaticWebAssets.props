@@ -640,6 +640,630 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\client2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy.html))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy.html))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\1457291081167286))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/1457291081167286</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\1457291081167286))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\29596928_1fdb_3.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/29596928_1fdb_3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\29596928_1fdb_3.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\analytics.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/analytics.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\analytics.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\client))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/client</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\client))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\common-app-css.9fa46c9712d9cf88aed9.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/common-app-css.9fa46c9712d9cf88aed9.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\common-app-css.9fa46c9712d9cf88aed9.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\common-app-css.f8dc3f732c34b695f9b8.css))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/common-app-css.f8dc3f732c34b695f9b8.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\common-app-css.f8dc3f732c34b695f9b8.css))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\common-desktop-server-side.1f4fb4e838449cf93e58.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/common-desktop-server-side.1f4fb4e838449cf93e58.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\common-desktop-server-side.1f4fb4e838449cf93e58.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\common-desktop-server-side.490d0bb6c339e2dfc7a4.css))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/common-desktop-server-side.490d0bb6c339e2dfc7a4.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\common-desktop-server-side.490d0bb6c339e2dfc7a4.css))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\common-desktop-udlite-app.9cbbd8c77d3b05b58b79.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/common-desktop-udlite-app.9cbbd8c77d3b05b58b79.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\common-desktop-udlite-app.9cbbd8c77d3b05b58b79.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\course-taking-server-side.64387472022da72bf4e2.css))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/course-taking-server-side.64387472022da72bf4e2.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\course-taking-server-side.64387472022da72bf4e2.css))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\course-taking-server-side.7273cdd988ac2a2a6bb1.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/course-taking-server-side.7273cdd988ac2a2a6bb1.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\course-taking-server-side.7273cdd988ac2a2a6bb1.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\course-taking-udlite-app.2564795437e990c6987a.css))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/course-taking-udlite-app.2564795437e990c6987a.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\course-taking-udlite-app.2564795437e990c6987a.css))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\course-taking-udlite-app.4b73ed477f9be146ddd6.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/course-taking-udlite-app.4b73ed477f9be146ddd6.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\course-taking-udlite-app.4b73ed477f9be146ddd6.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\datadog-rum.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/datadog-rum.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\datadog-rum.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\entry-main-manifest.2a0902faacb963de2c96.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/entry-main-manifest.2a0902faacb963de2c96.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\entry-main-manifest.2a0902faacb963de2c96.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\entry-main-vendor.dbfe2e8419f2e3a6f5ae.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/entry-main-vendor.dbfe2e8419f2e3a6f5ae.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\entry-main-vendor.dbfe2e8419f2e3a6f5ae.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\entry-main.696055429ab0bfa69715.css))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/entry-main.696055429ab0bfa69715.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\entry-main.696055429ab0bfa69715.css))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\entry-main.761e9768c5f4fa312d3e.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/entry-main.761e9768c5f4fa312d3e.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\entry-main.761e9768c5f4fa312d3e.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\fbevents.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/fbevents.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\fbevents.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\gtm.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/gtm.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\gtm.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\iu3.html))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/iu3.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\iu3.html))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\js))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\js))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\js(1)))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/js(1)</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\js(1)))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\js(2)))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/js(2)</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\js(2)))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\jsi18n-tr-tr.fd40efcf8b6cd932289b.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/jsi18n-tr-tr.fd40efcf8b6cd932289b.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\jsi18n-tr-tr.fd40efcf8b6cd932289b.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\logo-udemy-inverted.svg))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/logo-udemy-inverted.svg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\logo-udemy-inverted.svg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\otBannerSdk.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/otBannerSdk.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\otBannerSdk.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\otSDKStub.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/otSDKStub.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\otSDKStub.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\pixel.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/pixel.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\pixel.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\powered_by_logo.svg))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/powered_by_logo.svg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\powered_by_logo.svg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\s.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/s.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\s.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\saved_resource.html))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/saved_resource.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\saved_resource.html))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\thumb-sprites.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/thumb-sprites.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\thumb-sprites.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\udemy-logo.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/udemy-logo.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\udemy-logo.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\vendor-highcharts.7d9d843a1e8b77dfd581.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/vendor-highcharts.7d9d843a1e8b77dfd581.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\vendor-highcharts.7d9d843a1e8b77dfd581.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\vendor-videojs.584b43c465278b1162f7.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/vendor-videojs.584b43c465278b1162f7.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\vendor-videojs.584b43c465278b1162f7.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\vendors~common-desktop-udlite-app~common-mobile-udlite-app.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/vendors~common-desktop-udlite-app~common-mobile-udlite-app.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\vendors~common-desktop-udlite-app~common-mobile-udlite-app.indir))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\ytag.js.indir))">
+      <SourceType>Package</SourceType>
+      <SourceId>SignalR_Web_UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SignalR_Web_UI</BasePath>
+      <RelativePath>feane-1.0.0/images/Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files/ytag.js.indir</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\Course_ Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi _ Udemy_files\ytag.js.indir))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\feane-1.0.0\images\f1.png))">
       <SourceType>Package</SourceType>
       <SourceId>SignalR_Web_UI</SourceId>

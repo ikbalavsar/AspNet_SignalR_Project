@@ -9,5 +9,6 @@
         public int ProductCount { get; set; }
         public decimal TotalPrice { get; set; }
         public int RestaurantTableID { get; set; }
+        public string ProductName { get; set; }
     }
 }
