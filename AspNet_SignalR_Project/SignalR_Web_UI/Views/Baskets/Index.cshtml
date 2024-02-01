@@ -2,6 +2,9 @@
 @{
     Layout = null;
     int count = 0; 
+    decimal basketTotalPrice= 0;
+    decimal kdvRatio = 20;
+    decimal basketTotalPriceWithKdv = 0; 
 }
 
 
@@ -46,6 +49,8 @@
                     </thead>
                     @foreach(var item in Model)
                     {
+                        basketTotalPrice = Model.Sum(x => x.ProductPrice);
+                        basketTotalPriceWithKdv = basketTotalPrice + (basketTotalPrice * kdvRatio / 100); 
                         count++; 
                         <tbody class="align-middle">
                             <tr>
@@ -80,19 +85,21 @@
                     <div id="container" class="border-bottom pb-2">
                         <div class="d-flex justify-content-between mb-3">
                             <h6>Toplam Tutar</h6>
-                            <h6><span id="totalprice">200</span>₺</h6>
+                            <h6><span id="totalprice">@basketTotalPrice</span>₺</h6>
                         </div>
                         <div class="d-flex justify-content-between ">
                             <h6 class="font-weight-medium">KDV Oranı</h6>
-                            <h6 id="kdv" class="font-weight-medium">20 ₺</h6>
+                            <h6 id="kdv" class="font-weight-medium"> @kdvRatio % </h6>
                         </div>
                         <br />
                     </div>
 
+                
+
                     <div class="pt-2">
                         <div class="d-flex justify-content-between mt-2">
                             <h5>Toplam Tutar</h5>
-                            <h5><span id="totalpricewithkdv">220</span>₺</h5>
+                            <h5><span id="totalpricewithkdv">@basketTotalPriceWithKdv</span>₺</h5>
 
                         </div>
                         <br />
