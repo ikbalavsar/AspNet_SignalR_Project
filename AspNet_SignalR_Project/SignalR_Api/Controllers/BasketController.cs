@@ -61,5 +61,13 @@ namespace SignalR_Api.Controllers
             return Ok();
         }
 
+        [HttpDelete("{id}")]
+        public IActionResult DeleteBasket(int id)
+        {
+            var value = _basketService.TGetByID(id);
+            _basketService.TDelete(value);
+            return Ok("Product from basket is deleted.");
+        }
+
     }
 }
