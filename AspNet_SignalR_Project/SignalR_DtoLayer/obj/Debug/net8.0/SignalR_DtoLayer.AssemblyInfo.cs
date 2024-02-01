@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalR_DtoLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0397277c78a17c20956ffa027fdf2adac9b79f26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5394b603193d2a3ba90bb9aea90e7310873aeb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalR_DtoLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalR_DtoLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

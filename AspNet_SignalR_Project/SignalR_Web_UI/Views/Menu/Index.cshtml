@@ -134,17 +134,32 @@
 
     <script>
 
+        // function showproductid(value) {
+        //     var id = value; 
+        //     $.ajax({
+        //         type : 'post',
+        //         data: {item:id},
+        //         contentType : 'json',
+        //         success: function () {
+        //             swal("Seçilen ürün id : " + id, "Seçiminizi yaptınız", "success");
+        //         }
+        //     })
+        // }
+
         function showproductid(value) {
-            var id = value; 
+            var id = value;
             $.ajax({
-                type : 'post',
-                data: {item:id},
-                contentType : 'json',
+                type: 'post',
+                url: '/Menu/AddBasket/',
+                data: { ProductID: id },
+                contentType: 'json',
                 success: function () {
                     swal("Seçilen ürün id : " + id, "Seçiminizi yaptınız", "success");
                 }
             })
         }
+
+
     </script>
 
 </body>
