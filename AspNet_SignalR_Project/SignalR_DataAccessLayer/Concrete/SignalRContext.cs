@@ -29,5 +29,6 @@ namespace SignalR_DataAccessLayer.Concrete
         public DbSet<RestaurantTable> RestaurantTables { get; set; }
         public DbSet<Slider> Slider { get; set; }
         public DbSet<Basket> Baskets { get; set; }
+        public DbSet<Notification> Notifications { get; set; }
     }
 }
