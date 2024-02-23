@@ -14,5 +14,6 @@ namespace SignalR_EntityLayer.Entities
         public string Description { get; set; }
         public DateTime Date { get; set; }
         public bool Status { get; set; }
+        public string Icon { get; set; }
     }
 }

@@ -28,6 +28,11 @@ namespace SignalR_BusinessLayer.Concrete
             _notificationDal.Delete(entity);
         }
 
+        public List<Notification> TGetAllNotificationsByFalse()
+        {
+           return _notificationDal.GetAllNotificationsByFalse();
+        }
+
         public Notification TGetByID(int id)
         {
             var value = _notificationDal.GetByID(id);
@@ -38,6 +43,11 @@ namespace SignalR_BusinessLayer.Concrete
         {
            var value =  _notificationDal.GetListAll();
             return(value);
+        }
+
+        public int TNotificationCountByStatusFalse()
+        {
+            return _notificationDal.NotificationCountByStatusFalse();
         }
 
         public void TUpdate(Notification entity)

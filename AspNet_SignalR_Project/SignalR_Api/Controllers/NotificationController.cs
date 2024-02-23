@@ -16,6 +16,7 @@ namespace SignalR_Api.Controllers
         {
             _notificationService = notificationService;
         }
+   
 
         [HttpGet]
         public IActionResult NotificationList()
@@ -74,5 +75,16 @@ namespace SignalR_Api.Controllers
             return Ok(value);
         }
 
+        [HttpGet("NotificationCountByStatusFalse")]
+        public IActionResult NotificationCountByStatusFalse()
+        {
+            return Ok(_notificationService.TNotificationCountByStatusFalse());
+        }
+
+        [HttpGet("GetAllNotificationsByFalse")]
+        public IActionResult GetAllNotificationsByFalse()
+        {
+            return Ok(_notificationService.TGetAllNotificationsByFalse());
+        }
     }
 }
