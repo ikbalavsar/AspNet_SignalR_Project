@@ -88,5 +88,24 @@ namespace SignalR_Api.Controllers
         {
             return Ok(_notificationService.TGetAllNotificationsByFalse());
         }
-    }
+
+        [HttpGet("NotificationChangeToTrue/{id}")]
+        public IActionResult NotificationChangeToTrue(int id)
+        {
+            _notificationService.TNotificationChangeToTrue(id);
+
+			return Ok("Bildirim Durumu değiştirildi. "); 
+        }
+
+		[HttpGet("NotificationChangeToFalse/{id}")]
+		public IActionResult NotificationChangeToFalse(int id)
+		{
+			_notificationService.TNotificationChangeToFalse(id);
+
+			return Ok("Bildirim Durumu değiştirildi. ");
+		}
+
+
+
+	}
 }
