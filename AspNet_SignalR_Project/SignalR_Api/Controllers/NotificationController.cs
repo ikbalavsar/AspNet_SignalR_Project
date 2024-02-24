@@ -32,9 +32,10 @@ namespace SignalR_Api.Controllers
             Notification Notification = new Notification()
             {
               Type = createNotificationDto.Type,
-              Date = DateTime.Now,
+              Date = Convert.ToDateTime(DateTime.Now.ToShortDateString()),
               Description = createNotificationDto.Description,
-              Status = createNotificationDto.Status
+              Status = false,
+              Icon = createNotificationDto.Icon
 
             };
             _notificationService.TAdd(Notification);
@@ -58,10 +59,11 @@ namespace SignalR_Api.Controllers
             Notification Notification = new Notification()
             {
                 Type = updateNotificationDto.Type,
-                Date = DateTime.Now,
+                Date = updateNotificationDto.Date,
                 Description = updateNotificationDto.Description,
                 Status = updateNotificationDto.Status,
-                NotificationId = updateNotificationDto.NotificationId
+                NotificationId = updateNotificationDto.NotificationId,
+                Icon = updateNotificationDto.Icon
             };
 
             _notificationService.TUpdate(Notification);
